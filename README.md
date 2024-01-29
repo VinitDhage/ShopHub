@@ -39,5 +39,5 @@ Contributions are welcome! Please follow these guidelines:
 - Create a pull request
 
 ## License
-[Specify the license under which your project is distributed, e.g., MIT License]
+[The license under which this project is distributed, e.g., MIT License]
 
