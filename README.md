@@ -19,7 +19,6 @@ Welcome to ShopHub! This React-based web application leverages Redux for state m
 ## Technologies Used
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Redux](https://redux.js.org/): A predictable state container for JavaScript apps.
-- [Other technologies used in your project]
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/VinitDhage/ShopHub.git`
